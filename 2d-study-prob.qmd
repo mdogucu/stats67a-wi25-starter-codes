@@ -21,7 +21,7 @@ Random sampling ensures each individual/item in the population has an equal chan
 **Example**: Let's consider a new example for sampling. You want to survey the average number of hours university students spend on social media per day.
 
 - **What is the population in this scenario?**
-- **What is the sample you would select for this survey?**
+- **What is the sampling method you would select for this survey?** Do not just write the title of the sampling method but also explain the steps you are utilizing (e.g., get a list of registrar or post on a website etc).
 - **Is your sample a random sample? Why or why not?**
 - **Could there be any bias in the sampling process? What kind of bias might exist?**
 
