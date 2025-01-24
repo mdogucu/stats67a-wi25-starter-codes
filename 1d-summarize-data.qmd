@@ -112,6 +112,7 @@ count(mtcars, am)
 ggplot(mtcars) +
   aes(x = am) +
   geom_bar()
+  
 ```
 
 # Summarizing Numeric Data
@@ -139,7 +140,7 @@ summarize(mtcars, median(mpg))
 The 3rd Quantile of mpg:
 
 ```{r}
-summarize(mtcars, quantile(mpg, 0.75))
+summarize(mtcars, quantile(mpg, 0.25))
 ```
 
 What about the 1st Quantile? What is the meaning of "Quantile"?
